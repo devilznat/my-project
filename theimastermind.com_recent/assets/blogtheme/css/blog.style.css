@@ -1,0 +1,113 @@
+
+/*--------------------------------------------------
+[Master Slider]
+----------------------------------------------------*/
+
+/*MS Style v1*/
+.blog-ms-v1-extend {
+	padding: 5px;
+}
+
+/*MS Style v2*/
+.blog-ms-v2 .ms-thumb {
+	background: #222;
+	text-shadow: none;
+	height: 90px;
+}
+
+.blog-ms-v2 .ms-thumb p,
+.blog-ms-v2 .ms-thumb h3 {
+	color: #fff;
+}
+
+.blog-ms-v2 .ms-tabs.ms-dir-h .ms-thumb-frame .ms-thumb-ol {
+	border-bottom-color: #222 !important;
+}
+
+/*Video Gallery*/
+.blog-ms-v1 .ms-videogallery-template .ms-layer.video-title {
+	left: 0;
+	bottom: 30px;
+	position: absolute;
+	font-size: 14px !important;
+	line-height: 18px !important;
+	padding: 10px 15px !important;
+	background: #e74c3c !important;
+}
+
+.blog-ms-v1 .ms-videogallery-template .ms-thumb-list.ms-dir-v .ms-thumb-frame h3 {
+	line-height: 18px;
+	text-transform: inherit;
+}
+
+@media (max-width: 650px) {
+	.blog-ms-v1 .ms-videogallery-template .ms-layer.video-title {
+		font-size: 12px !important;
+		line-height: 16px !important;
+		padding: 10px 15px !important;
+	}
+}
+
+/*Partial View*/
+/*.blog-slider {
+	position: relative;
+}*/
+
+.blog-slider:after {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	content: " ";
+	position: absolute;
+	text-align: center;
+	background: rgba(0,0,0,0.2.99);
+}
+
+.blog-slider span.blog-slider-badge {
+	top: 20px;
+	left: 20px;
+	z-index: 1;
+	color: #fff;
+	font-size: 14px;
+	padding: 5px 10px;
+	position: absolute;
+}
+
+/*Blog Slider Title*/
+.blog-slider .blog-slider-title {
+	left: 0;
+	z-index: 1;
+	bottom: 20px;
+	padding: 0 20px;
+	position: absolute !important;
+}
+
+.blog-slider .blog-slider-title h2 {
+	margin: 0;
+	color: #fff;
+	font-size: 38px;
+	font-weight: 600;
+	line-height: 1.4;
+}
+
+@media (max-width: 768px) {
+	.blog-slider .blog-slider-title h2 {
+		font-size: 24px;
+		line-height: 1.4;
+	}
+}
+
+.blog-slider .blog-slider-title h2 a {
+	color: #fff;
+}
+
+.blog-slider .blog-slider-title span.blog-slider-posted {
+	color: #fff;
+	display: block;
+	font-size: 12px;
+	text-transform: uppercase;
+}
+
+
+/*--------------------------------------------------

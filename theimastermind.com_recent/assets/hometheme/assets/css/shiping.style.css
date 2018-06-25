@@ -1,0 +1,65 @@
+
+.shipping-form {
+	background: rgba(255, 255, 255, 0.83);
+	padding: 30px;
+	border-radius: 5px;
+	text-align: center;
+}
+.shipping-form h3 {
+	color: #2a2a2a;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 16px;
+	margin-bottom: 24px;
+}
+.shipping-form .form-control {
+	background: #f7f7f7;
+	padding: 10px;
+	height: 42px;
+	border: none;
+	color: #999ba0;
+}
+.shipping-form .form-control:focus {
+	box-shadow: none;
+}
+.shipping-form .btn-u {
+	width: 100%;
+}
+
+.intro-section-info {
+	padding-top: 60px;
+}
+@media (max-width: 768px) {
+	.shipping-form {
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+	.intro-section-info {
+		display: none;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*Success message*/
+.sky-form .message {
+    color: #ff0000;
+
+}
+
+.sky-form .message i {
+    border: 1px solid #ff0000;
+}
+
+.sky-form.submited .message p {
+    color: #2c2c2c;
+}

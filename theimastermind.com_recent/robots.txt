@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /theimastermind/assets
+Disallow: /theimastermind/backend
+Disallow: /admin
+Sitemap: http://theimastermind.com/sitemap.xml

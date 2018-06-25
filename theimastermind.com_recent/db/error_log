@@ -1,0 +1,5 @@
+[31-Jan-2017 00:55:53 Asia/Bangkok] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/cp528315/public_html/db/test.php:2) in /home/cp528315/public_html/db/test.php on line 3
+[20-Feb-2017 14:12:00 Asia/Bangkok] PHP Notice:  Undefined variable: mail in /home/cp528315/public_html/db/connectmailserver.php on line 3
+[20-Feb-2017 14:12:00 Asia/Bangkok] PHP Fatal error:  Call to a member function isSMTP() on null in /home/cp528315/public_html/db/connectmailserver.php on line 3
+[20-Feb-2017 14:12:19 Asia/Bangkok] PHP Notice:  Undefined variable: mail in /home/cp528315/public_html/db/connectmailserver.php on line 3
+[20-Feb-2017 14:12:19 Asia/Bangkok] PHP Fatal error:  Call to a member function isSMTP() on null in /home/cp528315/public_html/db/connectmailserver.php on line 3

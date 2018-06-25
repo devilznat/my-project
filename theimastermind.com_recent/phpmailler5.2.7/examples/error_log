@@ -1,0 +1,6 @@
+[27-Feb-2017 15:26:14 Asia/Bangkok] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.bkk1.cloud.z.com' did not match expected CN=`mail.theimastermind.com' in /home/cp528315/public_html/phpmailler5.2.7/class.smtp.php on line 326
+[27-Feb-2017 15:26:44 Asia/Bangkok] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.bkk1.cloud.z.com' did not match expected CN=`mail.theimastermind.com' in /home/cp528315/public_html/phpmailler5.2.7/class.smtp.php on line 326
+[27-Feb-2017 15:27:35 Asia/Bangkok] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.bkk1.cloud.z.com' did not match expected CN=`mail.theimastermind.com' in /home/cp528315/public_html/phpmailler5.2.7/class.smtp.php on line 326
+[27-Feb-2017 15:29:11 Asia/Bangkok] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.bkk1.cloud.z.com' did not match expected CN=`mail.theimastermind.com' in /home/cp528315/public_html/phpmailler5.2.7/class.smtp.php on line 326
+[28-Feb-2017 13:10:17 Asia/Bangkok] PHP Notice:  Undefined index: smtp_debug in /home/cp528315/public_html/phpmailler5.2.7/examples/code_generator.php on line 75
+[28-Feb-2017 13:10:17 Asia/Bangkok] PHP Notice:  Undefined index: smtp_debug in /home/cp528315/public_html/phpmailler5.2.7/examples/code_generator.php on line 88

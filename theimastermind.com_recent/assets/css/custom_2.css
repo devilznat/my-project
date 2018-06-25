@@ -1,0 +1,97 @@
+.nopadding-left{
+	padding-left: 4px;
+	padding-top: 5px;
+	margin-top: -20px;
+	margin-bottom: -17px;
+}
+.col-md-12{
+	width: 100%;
+	float: right;
+	position: relative;
+	min-height: 1px;
+}
+.bclick{
+	cursor: pointer;
+}
+h3.baner_h{
+	color: white;
+	padding-top: 30px;
+}
+p.baner_p{
+	color: white;
+	padding-top: 5px;
+}
+a.baner_a{
+	padding-top: 2px;
+	display: block;
+	margin: 0 auto;
+	border: 2px solid white;
+	width: 150px;
+	margin-top: 20px;
+	height: 38px;
+	color: white;
+}
+.dfw500{
+	font-weight: 500;
+}
+.dth36{
+	font-size: 36;
+}
+.dth{
+	font-family: 'rsuregular' , 'rsulight','superstorebook' , 'solomonregular' , 'Kanit' !important;
+}
+.text-center{
+	text-align: center;
+}
+h3{
+	margin-top: 20px;
+	margin-bottom: 10px;
+	line-height: -0.9px;
+}
+.dpt-13{
+	position: relative;
+	top: -13px;
+}
+.dlh20{
+	line-height: 22px;
+}
+.dfw300{
+	font-weight: 300;
+}
+.dth20{
+	font-size: 15px;
+}
+.dpt-20{
+	position: relative;
+	top: -20px;
+}
+.dfw400{
+	font-weight: 400;
+}
+.dth24{
+	font-size: 22px;
+}
+.a-custom{
+	text-decoration: none;
+	background-color: transparent;
+}
+.a-custom:hover,.a-custom:active{
+	
+	background-color: #555;
+	border-color: white;
+}
+p{
+	margin: 0 0 10px;
+}
+.style{
+	height: 180px;
+	width: 313px;
+	background-color: #434a5c;
+	background-image: url(//static.workventure.com/assets/images/xbaner_s_1.jpg.pagespeed.ic.Cbsx2nf1iQ.webp);
+	background-size: cover; 
+}
+/*.custom-margin-bottom-30 { 
+	margin-bottom:10px;
+}*/
+
+
